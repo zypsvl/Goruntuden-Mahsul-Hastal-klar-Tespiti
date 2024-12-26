@@ -1,4 +1,4 @@
-# Goruntuden-Mahsul-Hastal-klar-Tespiti
+# Goruntuden-Mahsul-Hastaliklari-Tespiti
 Toprak Verilerine Göre Mahsul Önerisi ve Sürdürülebilirlik İçin Mahsul Hastalıkları Tespiti
 Açıklama
 Bu proje, tarımda veri odaklı yaklaşımlar kullanarak tarımsal verimliliği artırmayı ve sürdürülebilir tarım uygulamalarını desteklemeyi amaçlamaktadır. Proje, iki ana hedefe odaklanmaktadır:
